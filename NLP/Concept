@@ -1,1 +1,10 @@
 
+TEXT PREPROCESSING lEVEL: 
+                        ->TOKENIZATION
+                        ->LEMMATIZATION
+                        ->STOPWORD
+Text preprocessing level 2:
+                       ->BAG OF WORDS
+                       ->TFIDF
+                       ->UNIGRAMS
+                       ->BIGRAMS
