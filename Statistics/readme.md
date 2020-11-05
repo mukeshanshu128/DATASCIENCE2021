@@ -1,2 +1,2 @@
 
-Statistics Details
+Concept of Statistics
