@@ -1,5 +1,5 @@
 
-Real Time application EXAMPLE we can use NLP
+Real Time application we can use NLP
 
 1)Email filters. Email filters are one of the most basic and initial applications of NLP online. ...
 2)Smart assistants. ...
