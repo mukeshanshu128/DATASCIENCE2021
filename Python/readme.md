@@ -82,6 +82,75 @@ PYTHON DETAILS:
                we can type of input int bydefault input type is string
                
                classstrength=int(userinput)
+    ->Python operator
+            var1=10
+            var2=20
+            print(var1+var2)
+            print(var1-var2)
+            print(var1/var2)
+            print(var1*var2)
+            print(var1%var2)  //Modular division
+            print(var1//var2) //floor division
+            print(var1**var2)  //exponenet
+            
+        ->Comparision operator : <,> ,==, != ,>=,<=
+        
+              var1,var2=2,5
+               print(var1 < var2)
+               print(var1 > var2)
+               print(var1 == var2)
+               print(var1 != var2)
+               print(var1 >= var2)
+               print(var1 <= var2)
+          ->Logical operator
+                -Logical opertor only operate TRUE & FALSE  or //boolean value
+              ex: var1,var2=True,false
+                print(var1 and var2)
+           ->Bitwise operator:
+                    Bitwise operation act on operands as they were string of binary digit.It operate bit by bit
+                    var1 ,var2 = 3,7             -->3 -0000 0011 4- 0000 0111
+                    
+                    print(var1 & var2)
+                    print(var1 | var2)
+                    print(~var2)            //inverse
+                    print(var1 ^ var2)      //xor
+                    print(var1 >>2)         //left shift 
+                    print(var1 <<2)         //right shift
+                    
+              ->Assignment operator
+              
+                     age=12
+                     age+=12
+                     age-=12
+                     age/=12
+                     age%=12
+                     age//=12   floor divison
+                     age**=12    exponenet
+                     
+        ->Special operator
+                -Identity operator & Member operator
+              *Identity operator
+                  list is not identitcal operator
+                  list is created unique memory for every time we created new list
+              *Membership operator (In not)
+                  In dictionary value search the key
+       ->Control Flow
+              -Python if else statement
+               
+              
+                   
+                  
+           
+                     
+
+                     
+                    
+                    
+                    
+            
+               
+            
+               
                
                
            
