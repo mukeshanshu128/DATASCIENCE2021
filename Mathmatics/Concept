@@ -2,7 +2,9 @@ CONCEPT1 : odds vs Logodds
 
 Probability to Odds to Log of Odds
   Probability is the probability an event happens. For example, there might be an 80% chance of rain today.
-  Odds (more technically the odds of success) is defined as probability of success/probability of failure. So the odds of a success (80% chance of rain) has an accompanying odds of failure (20% chance it doesn’t rain); as an equation (the “odds ratio“), that’s .8/.2 = 4.
+  Odds (more technically the odds of success) is defined as probability of success/probability of failure. 
+  So the odds of a success (80% chance of rain) has an accompanying odds of failure (20% chance it doesn’t rain); 
+  as an equation (the “odds ratio“), that’s .8/.2 = 4.
   Log odds is the logarithm of the odds. Ln(4) = 1.38629436 ≅ 1.386.
 
  The odds ratio is the probability of success/probability of failure
