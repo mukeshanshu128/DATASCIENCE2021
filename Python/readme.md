@@ -55,7 +55,42 @@ PYTHON DETAILS:
                {key1':'value100','key2':'value2','key3':'value3'}
              for del value in dictionary
               del mydict['key']
+              
    ->Conversion between Datatype
+           int-float
+           float-int
+       -Convert list to set
+          mylist=['a','b','c,'d']
+          myset=set(mylist)
+          print(myset)
+          {'a','b','c,'d'}  -set not allow duplicate value
+        -Convert string to list
+           mystr="My name is mukesh swain"
+           strtolist=list(mystr)
+           print(strtolist)
+           {'m','y','','n',....}
+   
+   ->Python Output
+   ->Output format
+            ex: myint1=20
+                myint2=30
+                print("my int1:{}is half of myint32 :{}",format(myint1,myint2))
+   ->Python input
+   
+          ex: userinput =input["please enter some data:"]
+                print('you type in:',userinput)
+               we can type of input int bydefault input type is string
+               
+               classstrength=int(userinput)
+               
+               
+           
+          
+          
+           
+          
+    
+   
                 
                
                
