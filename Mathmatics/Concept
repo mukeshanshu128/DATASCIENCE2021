@@ -9,7 +9,8 @@ Probability to Odds to Log of Odds
 
  The odds ratio is the probability of success/probability of failure
  
- As an equation, that’s P(A)/P(-A), where P(A) is the probability of A, and P(-A) the probability of ‘not A’ (i.e. the complement of A).
+ As an equation, that’s P(A)/P(-A), where P(A) is the probability of A, and P(-A) the probability of ‘not A’ 
+ (i.e. the complement of A).
  
  Taking the logarithm of the odds ratio gives us the log odds of A, which can be written as
 
