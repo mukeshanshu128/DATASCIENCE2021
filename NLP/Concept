@@ -8,3 +8,7 @@ Text preprocessing level 2:
                        ->TFIDF
                        ->UNIGRAMS
                        ->BIGRAMS
+
+
+word2vec-Gensim.model convert word to vector
+
