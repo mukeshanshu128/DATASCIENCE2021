@@ -187,3 +187,8 @@ PYTHON DETAILS:
                   same as above ex: mymatrix=[]
                                [mymatrix.append([j for j in range(3)]) for i in range(4)]
                                print(mymatrix)
+Tuple:
+      empty tuple=()
+      Mynumbertuple=(12.2,100,12)
+      
+
