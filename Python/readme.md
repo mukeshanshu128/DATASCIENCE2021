@@ -165,6 +165,18 @@ PYTHON DETAILS:
                ->List slicing (listofitem[0:3])
                ->skip th eitem in a list(listofitem[::2])
                ->Extend a list using '+'
+               ->Looping in list ex: 
+                                     for  element in list:
+                                          print(element)
+               ->List Comprehensions:
+                                  ex:
+                                     mylist=[]
+                                      for i in range(4):
+                                          mylist.append(i**2)
+                                      print(mylist)
+                                      
+               ->
+                     
                
                         
                         
