@@ -174,8 +174,20 @@ PYTHON DETAILS:
                                       for i in range(4):
                                           mylist.append(i**2)
                                       print(mylist)
-                                      
-               ->
+                   same as above ex: mylist=[i**2 for in range(4)]
+                 
+               ->Nested comprehensions:
+                                  matrix =[ [0,1,2], [0,1,2], [0,1,2], [0,1,2] ]
+                                  samelist=[]
+                               for i in range(4):
+                                    rowlist=[]
+                                     for j in range(3)
+                                         rowlist.append(j)
+                                samelist.append(rowlist)
+                  same as above ex: mymatrix=[]
+                               [mymatrix.append([j for j in range(3)]) for i in range(4)]
+                               print(mymatrix)
+                               
                      
                
                         
