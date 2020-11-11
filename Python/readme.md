@@ -136,6 +136,40 @@ PYTHON DETAILS:
                   In dictionary value search the key
        ->Control Flow
               -Python if else statement
+               ex1:  if test expresssion:
+                        body of if
+                     else:
+                        body of else
+                ex2:  if test expresssion:
+                        body of if
+                      elseif
+                         body of else if
+                      else:
+                        body of else
+               ->while loop
+               ->for loop
+               ->break
+               ->continue
+         ->List:
+               ->Create List
+               ->Finding lenghth of list
+               ->Add element in the list
+               ->Insert element at particular position
+               ->Append the list
+               ->List in list (Append vs extend)
+               ->delete an element in list -del vs pop vs remove
+               ->Reversing the list (list.revese)
+               ->Sorting a list (mynewlist=sorted(mylist),mylist.sort())
+               ->Split a string to create list (mysplitlist=mystr.split(',')
+               ->Indexing the lsit
+               ->List slicing (listofitem[0:3])
+               ->skip th eitem in a list(listofitem[::2])
+               ->Extend a list using '+'
+               
+                        
+                        
+                         
+              
                
               
                    
