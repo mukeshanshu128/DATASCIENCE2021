@@ -191,4 +191,22 @@ Tuple:
       empty tuple=()
       Mynumbertuple=(12.2,100,12)
       
+      
+->Set
+   -A set is an unordered collection of items.every element is unique(no duplicate)
+->Dictionary
+   -Collection of item
+   -key value pair
+      Ex:myintkeydict={1:'mukesh',2:'Rahul'}
+         mystringdict={'A':'B','C':'D'}
+->string :
+          lower()
+          upper()
+          split()
+          join
+          find() This method is uses find the index
+          
+              
+       
+      
 
