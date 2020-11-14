@@ -32,7 +32,7 @@ PYTHON DETAILS:
          
   ->Python Tuple-tuple as unorder sequence of item same as list
                  the only difference between tuple and list tuple are immutable
-                 
+                  
           Ex: mytuple=('qwe',78,12,34)
               print(mytuple[2])
               * we can not edit tuple
