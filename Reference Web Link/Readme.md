@@ -20,12 +20,12 @@ https://colah.github.io/posts/2015-08-Understanding-LSTMs/ (Understanding LSTM N
 
 Datascience Project:
 --------------------
-https://github.com/insaid2018/Term-1/tree/master/Data/Projects
+https://github.com/insaid2018/Term-1/tree/master/Data/Projects </br>
 https://github.com/insaid2018/Term-2/blob/master/Term-I-II%20EDA%20Project%20Datasets.ipynb
 
 Project: (GitHub)
 -------
-https://github.com/karpathy/char-rnn (RNN project)
+https://github.com/karpathy/char-rnn (RNN project) </br>
 https://github.com/karpathy/neuraltalk (Neural network project)
 
 FREE CLOUD STORAGE -
