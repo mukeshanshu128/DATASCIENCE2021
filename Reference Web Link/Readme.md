@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=awLu1i1B6qs&lc=UgwtPyX19OGL6ozazNJ4AaABAg (dataf
 
 PYTHON:
 --------
-https://docs.python.org/2.5/lib/string-methods.html (PYTHON Tutorial)
-https://pbpython.com/sidetable.html (Practical Business Python)
+https://docs.python.org/2.5/lib/string-methods.html (PYTHON Tutorial)</br>
+https://pbpython.com/sidetable.html (Practical Business Python)</br>
 https://app.finxter.com/learn/computer/science/ (learn ML)
 
 Deep Learning
