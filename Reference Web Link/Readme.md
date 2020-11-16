@@ -28,6 +28,11 @@ Project: (GitHub)
 https://github.com/karpathy/char-rnn (RNN project) </br>
 https://github.com/karpathy/neuraltalk (Neural network project)
 
+Datascience Project:
+-------------------
+https://www.naukri.com/blog/free-ai-courses-from-harvard-mit-stanford-covid-article3/
+
+
 FREE CLOUD STORAGE -
 ------------------
 https://cloud.netapp.com
