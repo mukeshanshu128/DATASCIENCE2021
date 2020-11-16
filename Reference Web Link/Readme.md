@@ -28,8 +28,8 @@ Project: (GitHub)
 https://github.com/karpathy/char-rnn (RNN project) </br>
 https://github.com/karpathy/neuraltalk (Neural network project)
 
-Datascience Project:
--------------------
+AI & DATASCIENCE COURSE:
+-----------------------
 https://www.naukri.com/blog/free-ai-courses-from-harvard-mit-stanford-covid-article3/
 
 
