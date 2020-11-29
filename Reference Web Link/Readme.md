@@ -13,6 +13,12 @@ https://docs.python.org/2.5/lib/string-methods.html (PYTHON Tutorial)</br>
 https://pbpython.com/sidetable.html (Practical Business Python)</br>
 https://app.finxter.com/learn/computer/science/ (learn ML)
 
+STASTICS:
+--------
+https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data
+https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m
+
+
 Deep Learning
 -------------
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/ (Understanding LSTM Networks)
